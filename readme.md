@@ -31,6 +31,7 @@ project without any issues.
 ### Usage:
 
 To run the application, execute the following command in the src directory
+
 ```cd src```
 
 <u>Command</u>
